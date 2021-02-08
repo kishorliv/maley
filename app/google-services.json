@@ -1,0 +1,40 @@
+{
+  "project_info": {
+    "project_number": "624336396560",
+    "firebase_url": "https://maley-d6447.firebaseio.com",
+    "project_id": "maley-d6447",
+    "storage_bucket": "maley-d6447.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:624336396560:android:411f1d648afa8bdf220595",
+        "android_client_info": {
+          "package_name": "com.example.maley"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "624336396560-paem2cfgdl1ef3j8jls8teq8i1b9df54.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyB64eDMJ06AJYUXu75Xsjqmu02c_sYyy7U"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "624336396560-paem2cfgdl1ef3j8jls8teq8i1b9df54.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}

@@ -1,0 +1,9 @@
+<resources>
+    <string name="app_name">Maley</string>
+
+    <!-- fragment tags -->
+    <string name="fragment_home">Fragment Home</string>
+    <string name="fragment_list">Fragment List</string>
+    <string name="fragment_camera">Fragment Camera</string>
+
+</resources>
