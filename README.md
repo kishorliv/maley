@@ -8,7 +8,7 @@
  
 ## Demo video
 ![maley screenshot](maley-ss.png "Screenshot home page")
-<p></p>
+<br>
 [Link to the video](https://drive.google.com/file/d/1AVt7sBuM8clTwf-mr25ERiFUlDRybuQ-/view?usp=sharing)
 
 ## Awesome Features!
